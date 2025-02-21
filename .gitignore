@@ -4,4 +4,6 @@ __pycache__/
 *.mp3
 *.h5
 data/
+.idea/
+.DS_Store
 
