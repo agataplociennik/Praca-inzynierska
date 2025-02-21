@@ -1,0 +1,7 @@
+__pycache__/
+*.csv
+*.wav
+*.mp3
+*.h5
+data/
+
